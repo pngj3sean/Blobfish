@@ -1,0 +1,11 @@
+Model Information:
+* title:	Corius - The Robot
+* source:	https://sketchfab.com/3d-models/corius-the-robot-0219ea3e992e455da76d2d097a989813
+* author:	srikarjois1234 (https://sketchfab.com/srikarjois1234)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Corius - The Robot" (https://sketchfab.com/3d-models/corius-the-robot-0219ea3e992e455da76d2d097a989813) by srikarjois1234 (https://sketchfab.com/srikarjois1234) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
